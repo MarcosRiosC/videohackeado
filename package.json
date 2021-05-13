@@ -8,8 +8,12 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@videojs/vhs-utils": "^3.0.1",
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "video.js": "^7.11.8",
+    "vue": "^2.6.11",
+    "vue-ribbon": "^1.0.1",
+    "vue-videojs7": "^1.0.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
